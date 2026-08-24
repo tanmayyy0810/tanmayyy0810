@@ -1,300 +1,278 @@
-![Profile Views](https://komarev.com/ghpvc/?username=tanmayyy0810&style=flat-square&color=8B5CF6)
-![Followers](https://img.shields.io/github/followers/tanmayyy0810?style=flat-square&color=8B5CF6)
-![Stars](https://img.shields.io/github/stars/tanmayyy0810?style=flat-square&color=8B5CF6)
+Tanmay Rastogi — Software Developer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=300&section=header&text=Tanmay%20Rastogi&fontSize=60&fontColor=fff&animation=fadeIn" alt="header" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI%2FML+Enthusiast;Software+Developer;Open+Source+Contributor" alt="typing" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=230&section=header&text=TANMAY%20RASTOGI&fontSize=58&fontColor=F8FAFC&animation=fadeIn" width="100%" alt="Tanmay Rastogi"/>
 
-<div align="center">
-  
-[![Academic Excellence](https://img.shields.io/badge/VIT_Vellore-9.39_CGPA-8B5CF6?style=for-the-badge&labelColor=1f2937)](https://www.vit.ac.in)
-[![IIT Madras](https://img.shields.io/badge/IIT_Madras-Data_Science-7C3AED?style=for-the-badge&labelColor=1f2937)](https://www.iitm.ac.in)
-[![Location](https://img.shields.io/badge/📍-Vellore,_Tamil_Nadu-A78BFA?style=flat-square)](https://maps.google.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;AI%2FML+Enthusiast;IoT+%26+Embedded+Systems;Building+Software+That+Solves+Real+Problems" alt="Typing introduction"/>
+
+<br/><br/>
+
+<a href="mailto:tanmayrastogi08@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
+<a href="https://www.linkedin.com/in/tanmayrastogi08/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="https://github.com/tanmayyy0810"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=F8FAFC" /></a>
+<a href="https://leetcode.com/u/TANMAY0810/"><img src="https://img.shields.io/badge/LEETCODE-0B1220?style=for-the-badge&logo=leetcode&logoColor=F59E0B" /></a>
 
 </div>
 
+⚡ Profile Snapshot
+
+<table>
+<tr>
+<td width="55%">
+
+Building at the intersection of
+
+Web Engineering · AI/ML · IoT
+
+Computer Science undergraduate at VIT Vellore (CGPA: 9.39) and IIT Madras BS Data Science student. I enjoy turning ideas into polished applications, reliable backend systems, and practical intelligent solutions.
+
+Currently open to
+
+ML / Data internships
+
+Full Stack / Software Engineering internships
+
+Embedded & IoT opportunities
+
+Open-source and technical collaborations
+
+</td>
+<td width="45%">
+
+🎓 Education
+
+VIT Vellore
+B.Tech Computer Science
+CGPA: 9.39
+
+IIT Madras
+BS Data Science
+CGPA: 7.92
+
+💼 Experience
+
+Software Developer Intern
+Shri Balaji Foods
+May 2026 – Jul 2026
+
+</td>
+</tr>
+</table>
+
+🧩 What I Work With
+
+<table>
+<tr>
+<td><b>Languages</b><br/>Java · Python · C · C++ · JavaScript · R</td>
+<td><b>Frontend</b><br/>React.js · HTML · CSS · Three.js · MediaPipe</td>
+</tr>
+<tr>
+<td><b>Backend</b><br/>Node.js · Express.js · Flask · REST APIs · JWT</td>
+<td><b>Data & AI</b><br/>Scikit-learn · Pandas · NumPy · Machine Learning</td>
+</tr>
+<tr>
+<td><b>Databases & Cloud</b><br/>MongoDB · Firebase · Cloudinary</td>
+<td><b>Tools & Hardware</b><br/>Git · GitHub · Postman · Figma · Arduino</td>
+</tr>
+</table>
+
+🚀 Selected Work
+
+01 · Threat Guard
+
+Spam & Malicious URL Detection System
+
+A production-grade cybersecurity application using machine learning to detect spam emails and malicious URLs in real time.
+
+
+
+
+
+Stack
+
+Python · Flask · Machine Learning · HTML · CSS · JavaScript
+
+Dataset
+
+500+ labeled email & URL samples
+
+Accuracy
+
+93% prediction accuracy
+
+Focus
+
+Binary classification · threat detection pipeline
+
+Highlights
+
+End-to-end ML pipeline with preprocessing and feature extraction
+
+Classification models with strong detection accuracy
+
+Flask integration for real-time analysis
+
+↗ View Repository
+
+02 · SignBridge AR
+
+Real-Time Sign Language Recognition
+
+A web application for sign language recognition and translation with real-time gesture detection and 3D avatar visualization.
+
+
+
+
+
+Stack
+
+HTML · CSS · JavaScript · Three.js · MediaPipe · Flask
+
+UI
+
+6-page responsive interface
+
+Modes
+
+5 application modes
+
+Focus
+
+Computer vision · accessibility · real-time rendering
+
+Highlights
+
+Real-time MediaPipe gesture detection
+
+Three.js 3D avatar visualization
+
+Responsive glassmorphism interface
+
+↗ View Repository
+
+03 · AI Health Monitoring Smartwatch
+
+IoT Wearable Monitoring System
+
+A compact IoT smartwatch system monitoring heart rate, body temperature and motion data with cloud synchronization and live dashboards.
+
+
+
+
+
+Hardware
+
+ESP8266 · MPU6050 · MAX30100 · BMP180 · OLED
+
+Backend
+
+Node.js · WebSockets
+
+Sensors
+
+3 health sensors
+
+Performance
+
+97% monitoring accuracy · sub-100ms latency
+
+Highlights
+
+Multi-sensor integration and calibration
+
+Real-time data streaming
+
+Live dashboard for continuous monitoring
+
+↗ View Repository
+
+💼 Experience
+
+Software Developer Intern · Shri Balaji Foods
+
+May 2026 – Jul 2026 · Vellore, Tamil Nadu
+
+Developed a full-stack e-commerce platform for agricultural product sales and distribution.
+
+Delivered
+
+4 scalable backend modules with complete CRUD functionality
+
+MongoDB persistence and Cloudinary image management
+
+JWT authentication and REST API patterns
+
+15+ bugs and performance issues resolved
+
+Production-ready features delivered within a 2-month sprint
+
+Core stack: React.js · Node.js · Express.js · MongoDB · REST APIs · JWT · Cloudinary
+
+🧠 AI / ML Capabilities
+
+<table>
+<tr><th>Area</th><th>Level</th><th>Hands-on Focus</th></tr>
+<tr><td>Classification & Detection</td><td>Expert</td><td>Spam detection, malware classification, supervised learning</td></tr>
+<tr><td>Computer Vision</td><td>Advanced</td><td>Sign language recognition, real-time video, MediaPipe</td></tr>
+<tr><td>Data Science</td><td>Advanced</td><td>Feature engineering, preprocessing, model optimization</td></tr>
+<tr><td>Model Training</td><td>Expert</td><td>500+ samples, 93% accuracy, tuning, cross-validation</td></tr>
+<tr><td>IoT & Sensor Fusion</td><td>Advanced</td><td>Multi-sensor integration, 97% monitoring accuracy</td></tr>
+</table>
+
+🏆 Highlights
+
+9.39 — VIT Vellore CGPA
+93% — ML prediction accuracy
+97% — IoT monitoring accuracy
+15+ — Internship bugs resolved
+4 — Backend modules delivered
+Senior Core Member — ISTE VIT · PR Assistant · Editor
+
+📜 Certifications
+
+Quantum Computing — Ethical Edufabrica Pvt. Ltd.
+
+Java Training — Udemy
+
+📊 GitHub Activity
+
 <div align="center">
 
-[🌐 Portfolio](#) • [💼 LinkedIn](https://www.linkedin.com/in/tanmayrastogi08/) • [📧 Email](mailto:tanmayrastogi08@gmail.com) • [🐙 GitHub](https://github.com/tanmayyy0810) • [🔗 LeetCode](https://leetcode.com/u/TANMAY0810/)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanmayyy0810&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&icon_color=F59E0B" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayyy0810&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=tanmayyy0810&theme=dark&hide_border=true&background=0B1220&ring=22D3EE&fire=F59E0B&currStreakNum=F8FAFC&sideNums=CBD5E1&dates=94A3B8" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmayyy0810&bg_color=0B1220&color=CBD5E1&line=22D3EE&point=F59E0B&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
----
+🎯 Current Focus
 
-## 🚀 About Me
-
-Computer Science undergraduate at **VIT Vellore** (CGPA: 9.39) and **IIT Madras** BS Data Science student, specializing in full-stack web development and AI/ML solutions. Passionate about building scalable applications, writing clean code, and solving real-world problems through software engineering. Proven track record of developing production-grade applications, optimizing backend systems, and implementing machine learning models with measurable impact.
-
-### 🎯 Open To
-- **Internships**: ML/Data, Embedded Systems, Full Stack Development
-- **Collaborations**: AI/ML research, open-source contributions
-- **Opportunities**: Product engineering roles, startup ventures
-
----
-
-## 💻 Tech Stack
-
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-### **Frontend**
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=swagger&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### **IoT & Embedded Systems**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-### **Cloud, DevOps & Tooling**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 🧠 AI/ML Expertise
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Classification & Detection** | Expert | Spam detection, malware classification, supervised learning models |
-| **Computer Vision** | Advanced | Sign language recognition, real-time video processing, MediaPipe integration |
-| **Data Science** | Advanced | Feature engineering, model optimization, data preprocessing, analysis |
-| **Model Training** | Expert | 500+ labeled samples, 93% accuracy, hyperparameter tuning, cross-validation |
-| **IoT & Sensor Fusion** | Advanced | Multi-sensor integration, 97% monitoring accuracy, real-time data processing |
-
----
-
-## 📌 Featured Projects
-
-<details open>
-<summary><b>🔐 Threat Guard - Spam & Malicious URL Detection System</b></summary>
-
-A production-grade cybersecurity application leveraging machine learning to detect spam emails and malicious URLs in real-time.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | Python, Flask, Machine Learning, HTML, CSS, JavaScript |
-| **Scale** | 500+ labeled email & URL samples |
-| **Performance** | 93% prediction accuracy |
-| **Security** | Binary classification, threat detection pipeline |
-| **Impact** | Real-time threat detection for email security |
-| **Repository** | [GitHub](https://github.com/tanmayyy0810/threat-guard) |
-
-**Key Achievements:**
-- Built end-to-end ML pipeline with data preprocessing and feature extraction
-- Implemented classification models achieving industry-standard detection accuracy
-- Integrated ML backend with Flask web interface for seamless user experience
-- Deployed real-time threat detection system for immediate email/URL analysis
-
-</details>
-
-<details open>
-<summary><b>🤟 SignBridge AR - Real-Time Sign Language Recognition</b></summary>
-
-An innovative web application enabling real-time sign language recognition and translation with 3D avatar visualization, bridging communication gaps for deaf and hard-of-hearing communities.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | HTML, CSS, JavaScript, Three.js, MediaPipe, Flask |
-| **Scale** | 5 application modes, 6-page UI |
-| **Performance** | Real-time gesture recognition and rendering |
-| **Accessibility** | Responsive design, optimized user interactions |
-| **Impact** | Enhanced accessibility for diverse communication needs |
-| **Repository** | [GitHub](https://github.com/tanmayyy0810/signbridge-ar) |
-
-**Key Achievements:**
-- Engineered responsive UI with glassmorphism design aesthetics
-- Integrated real-time speech recognition with MediaPipe gesture detection
-- Implemented Three.js 3D avatar for sign language visualization
-- Optimized navigation and layouts across 5 distinct application modes
-
-</details>
-
-<details open>
-<summary><b>⌚ AI-Powered Health Monitoring Smartwatch</b></summary>
-
-A compact IoT smartwatch system monitoring real-time health metrics including heart rate, body temperature, and motion data with cloud synchronization and live dashboard visualization.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | ESP8266, Arduino, Node.js, MPU6050, MAX30100, BMP180, OLED |
-| **Scale** | 3 health sensors, real-time data streaming |
-| **Performance** | 97% monitoring accuracy, sub-100ms latency |
-| **Security** | Sensor calibration, data validation, secure communication |
-| **Impact** | Wearable health monitoring with cloud integration |
-| **Repository** | [GitHub](https://github.com/tanmayyy0810/health-smartwatch) |
-
-**Key Achievements:**
-- Engineered multi-sensor IoT integration with ESP8266 microcontroller
-- Calibrated sensors delivering 97% accuracy in health parameter monitoring
-- Designed Node.js backend with real-time data streaming and WebSocket communication
-- Built live dashboard for continuous health tracking and data visualization
-
-</details>
-
----
-
-## 💼 Experience
-
-### **Software Developer Intern** | Shri Balaji Foods
-**May 2026 – Jul 2026** | Vellore, Tamil Nadu
-
-Developed a full-stack e-commerce platform for agricultural product sales and distribution, implementing backend modules and optimizing application functionality.
-
-**Scope of Work:**
-- 🔧 Engineered 4 scalable backend modules with complete CRUD functionality
-- 🗄️ Integrated Cloudinary for image management, MongoDB for data persistence
-- 🔐 Implemented JWT authentication and REST API design patterns
-- 🐛 Resolved 15+ critical bugs and performance issues through systematic debugging
-- ✅ Delivered production-ready features within 2-month sprint cycle
-
-**Skills:** React.js • Node.js • Express.js • MongoDB • REST APIs • JWT Auth • Cloudinary • Full-Stack Development
-
----
-
-## 🏆 Achievements
+<table>
+<tr>
+<td><b>Learning</b><br/>Advanced ML/AI architectures<br/>System design & scalability<br/>Cloud infrastructure & deployment</td>
+<td><b>Building</b><br/>Production-grade full-stack apps<br/>AI-powered solutions<br/>IoT & embedded projects</td>
+<td><b>Exploring</b><br/>Generative AI & LLMs<br/>Kubernetes<br/>Federated learning</td>
+</tr>
+</table>
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **Academic Excellence** | VIT Vellore CGPA: 9.39 (Top 5%), IIT Madras CGPA: 7.92 |
-| **Project Impact** | 93% accuracy in ML models, 97% IoT sensor precision, 6-page responsive UI |
-| **Leadership** | Senior Core Member, PR Assistant, Editor @ ISTE VIT |
-| **Internship Delivery** | 4 backend modules, 15+ bugs fixed, 100% CRUD functionality |
-| **Technical Proficiency** | Full-stack web development, AI/ML, IoT, cybersecurity applications |
+Let's build something useful.
 
-</div>
+<a href="mailto:tanmayrastogi08@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/tanmayrastogi08/">LinkedIn</a> ·
+<a href="https://github.com/tanmayyy0810">GitHub</a> ·
+<a href="https://leetcode.com/u/TANMAY0810/">LeetCode</a>
 
----
+<br/><br/>
 
-## 📜 Certifications
-
-<div align="center">
-
-**Ethical Edufabrica Pvt. Ltd.**
-![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-8B5CF6?style=for-the-badge&labelColor=1f2937)
-
-**Udemy**
-![Java Training](https://img.shields.io/badge/Java_Training-ED8936?style=for-the-badge&labelColor=1f2937)
-
-</div>
-
----
-
-## 🔗 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TANMAY0810/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmayyy0810)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayyy0810&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e0e7ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanmayyy0810&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayyy0810&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e0e7ff)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=tanmayyy0810&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmayyy0810&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=8b5cf6)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced ML/AI architectures
-  - System design and scalability
-  - Cloud infrastructure & deployment
-
-Building:
-  - Full-stack applications with production-grade code
-  - AI-powered solutions for real-world problems
-  - IoT and embedded systems projects
-
-Exploring:
-  - Generative AI and large language models
-  - Kubernetes and container orchestration
-  - Federated learning and privacy-preserving ML
-
-Open To:
-  - Internship opportunities in ML/Data, Full Stack, or Embedded Systems
-  - Collaboration on open-source projects
-  - Research partnerships in AI and software engineering
-```
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmayrastogi08@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmayrastogi08/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmayyy0810)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TANMAY0810/)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" alt="footer" />
-</div>
-
-<div align="center">
-
-**"Code is poetry written for computers and humans to read. Build systems that matter."** 💜
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
