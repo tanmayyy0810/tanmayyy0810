@@ -1,6 +1,7 @@
 <div align="center">
 
- <img width="100%" src="assets/header.svg" alt="Tanmay Rastogi header" />
+ <!-- <img width="100%" src="assets/header.svg" alt="Tanmay Rastogi header" /> -->
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC9F0,50:0A6CFF,100:120458&height=220&section=header&text=Tanmay%20Rastogi&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Development%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20IoT&descAlignY=62&descSize=18" width="100%" alt="Tanmay Rastogi header" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=950&color=4CC9F0&center=true&vCenter=true&width=850&height=35&lines=Java+%7C+Python+%7C+JavaScript+%7C+React+%7C+Node.js;Express.js+%7C+MongoDB+%7C+REST+APIs+%7C+AWS;Building+Full-Stack+Applications+and+AI-Powered+Solutions;VIT+Vellore+%7C+IIT+Madras+BS+Data+Science" alt="Animated introduction" /></a>
 
