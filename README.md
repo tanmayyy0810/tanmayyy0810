@@ -120,6 +120,14 @@ Developed a full-stack e-commerce platform with React.js, Node.js, Express.js, M
 [![Gmail](https://img.shields.io/badge/Gmail-120458?style=for-the-badge&logo=gmail&logoColor=4CC9F0)](mailto:tanmayrastogi08@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-120458?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmayyy0810)
 
-<img src="assets/footer.svg" width="100%" alt="Blue and purple footer" />
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4CC9F0,50:0A6CFF,100:120458"
+    alt="Blue and Purple Footer"
+  />
+</div>
+
 
 </div>
