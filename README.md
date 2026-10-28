@@ -16,7 +16,7 @@
 <img src="assets/divider.svg" width="100%" alt="Blue-purple divider" />
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/76/b4/64/76b4645640120014ba9c4fb26dbd40fd.gif" width="600" alt="Blue pixel-art night animation" />
+  <img src="assets/night.gif" width="600" alt="Blue pixel-art night animation" />
 </p>
 
 ```js
