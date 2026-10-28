@@ -121,13 +121,15 @@ Developed a full-stack e-commerce platform with React.js, Node.js, Express.js, M
 [![GitHub](https://img.shields.io/badge/GitHub-120458?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmayyy0810)
 
 
+
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4CC9F0,50:0A6CFF,100:120458"
-    alt="Blue and Purple Footer"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4CC9F0,50:2196F3,100:0A6CFF"
+    alt="Blue Gradient Footer"
   />
 </div>
+
 
 
 </div>
