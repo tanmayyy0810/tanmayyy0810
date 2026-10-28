@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Tanmay Rastogi - blue and purple gradient header" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:4CC9F0,50:0A6CFF,100:120458&height=205&section=header&text=Tanmay%20Rastogi&fontSize=64&fontColor=f8fafc&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20IoT%20Builder&descAlignY=62&descSize=15&animation=fadeIn&stroke=4CC9F0&strokeWidth=1" alt="Tanmay Rastogi header" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=950&color=4CC9F0&center=true&vCenter=true&width=850&height=35&lines=Java+%7C+Python+%7C+JavaScript+%7C+React+%7C+Node.js;Express.js+%7C+MongoDB+%7C+REST+APIs+%7C+AWS;Building+Full-Stack+Applications+and+AI-Powered+Solutions;VIT+Vellore+%7C+IIT+Madras+BS+Data+Science" alt="Animated introduction" /></a>
 
@@ -106,7 +106,11 @@ Developed a full-stack e-commerce platform with React.js, Node.js, Express.js, M
 <div align="center">
 
 <!-- This displays after you run the included GitHub Actions workflow successfully. -->
-<img src="https://raw.githubusercontent.com/tanmayyy0810/tanmayyy0810/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake (activate GitHub Actions to generate)" />
+ <img
+    src="https://raw.githubusercontent.com/tanmayyy0810/tanmayyy0810/output/github-contribution-grid-snake.svg"
+    alt="Tanmay's Contribution Snake"
+    width="100%"
+  />
 
 </div>
 
