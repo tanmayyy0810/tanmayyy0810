@@ -90,7 +90,13 @@ Developed a full-stack e-commerce platform with React.js, Node.js, Express.js, M
 <table>
 <tr>
 <td align="center" width="50%" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api?username=tanmayyy0810&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4CC9F0&text_color=E2E8F0&icon_color=4CC9F0&ring_color=0A6CFF&custom_title=Tanmay%27s%20GitHub%20Stats" alt="GitHub statistics" width="100%" />
+
+<img
+  src="https://github-stats-extended.vercel.app/api?username=tanmayyy0810&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4CC9F0&text_color=E2E8F0&icon_color=4CC9F0&ring_color=0A6CFF&custom_title=Tanmay%27s%20GitHub%20Stats&v=2"
+  alt="GitHub statistics"
+  width="100%"
+/>
+
 </td>
 <td align="center" width="50%" valign="middle">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayyy0810&layout=compact&hide_border=true&bg_color=0D1117&title_color=4CC9F0&text_color=E2E8F0&langs_count=8&custom_title=Most%20Used%20Languages" alt="Most used languages" width="100%" />
